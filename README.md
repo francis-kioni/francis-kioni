@@ -40,16 +40,7 @@ I'm a GIS Analyst with an excellent ability to collect and interpret geographica
         .tech img {
             margin-right: 8px;
         }
-        .r { background-color: #276DC3; }
-        .python { background-color: #3572A5; }
-        .mysql { background-color: #4479A1; }
-        .tableau { background-color: #E97627; }
-        .spark { background-color: #E25A1C; }
-        .hadoop { background-color: #0079BD; }
-        .jupyter { background-color: #F37726; }
-        .vscode { background-color: #007ACC; }
-        .qgis { background-color: #3CAE49; }
-        .sublime { background-color: #FF9800; }
+
     </style>
 </head>
 <body>
