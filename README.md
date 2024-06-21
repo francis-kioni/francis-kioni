@@ -1,5 +1,6 @@
 ## Hi there 👋 
 Welcome to my Github page. I'm a GIS Analyst with an excellent ability to collect and interpret geographical data. Solid reputation for applying analytical and problem solving skills to clearly present requested geographic data in a way that’s easy to comprehend. Expertise in digital cartography, image processing, computer technology, GIS software, geospatial production techniques, remote sensing, and photogrammetry.  Highly diverse and extremely efficient.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni&show_icons=true&theme=radical)
 
 ## 👯 I’m currently looking to collaborate on
@@ -8,6 +9,8 @@ Welcome to my Github page. I'm a GIS Analyst with an excellent ability to collec
 ## 💬 Ask me about
 
 R, Remote Sensing, GIS, UAV, XGBoost, GEE, Python  MySQL Tableau Qgis 
+
+⚡ Fun fact: I'm a top 100 PUBG player in Kenya ✨[Deadly_Kion]✨
 <!--
 **francis-kioni/francis-kioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ...
 -[![Kioni's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni](https://github.com/francis-kioni/github-readme-stats)
 -->
