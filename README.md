@@ -10,11 +10,11 @@ I'm a GIS Analyst with an excellent ability to collect and interpret geographica
     <div class="tech-container">
         <a href="#" class="tech r"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50"></a>
         <a href="#" class="tech python"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50"></a>
-        <a href="#" class="tech mysql"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50"></a>
+        <a href="#" class="tech postgresql"><img src="[https://www.mysql.com/common/logos/logo-mysql-170x115.png](https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png)" alt="MySQL Logo" width="50"></a>
         <a href="#" class="tech tableau"><img src="https://public.tableau.com/static/images/favicon-32x32.png" alt="Tableau Logo" width="50"></a>
         <a href="#" class="tech jupyter"><img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Logo" width="50"></a>
         <a href="#" class="tech vscode"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="50">/a>
-        <a href="#" class="tech qgis"><img src="https://qgis.org/en/_static/qgis_logo.png" alt="QGIS Logo" width="50"></a>
+        <a href="#" class="tech qgis"><img src="https://qgis.org/en/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" alt="QGIS Logo" width="50"></a>
     </div>
 </body>
 </html>
