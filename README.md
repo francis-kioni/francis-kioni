@@ -10,7 +10,7 @@ I'm a GIS Analyst with an excellent ability to collect and interpret geographica
     <div class="tech-container">
         <a href="#" class="tech r"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50"></a>
         <a href="#" class="tech python"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50"></a>
-        <a href="#" class="tech postgresql"><img src="[https://www.mysql.com/common/logos/logo-mysql-170x115.png](https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png)" alt="MySQL Logo" width="50"></a>
+        <a href="#" class="tech postgresql"><img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" alt="postgresql Logo" width="50"></a>
         <a href="#" class="tech tableau"><img src="https://public.tableau.com/static/images/favicon-32x32.png" alt="Tableau Logo" width="50"></a>
         <a href="#" class="tech jupyter"><img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter Logo" width="50"></a>
         <a href="#" class="tech vscode"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="50">/a>
