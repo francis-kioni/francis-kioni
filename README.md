@@ -8,10 +8,10 @@ I'm a GIS Analyst with an excellent ability to collect and interpret geographica
 
 <h1>What do I use in my work?</h1>
 <div class="tech-container">
-    <a href="#" class="tech r"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50" height="50">R</a>
-    <a href="#" class="tech python"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50" height="50">Python</a>
-    <a href="#" class="tech postgresql"><img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL Logo" width="50" height="50">PostgreSQL</a>
-    <a href="#" class="tech qgis"><img src="https://qgis.org/en/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" alt="QGIS Logo" width="50" height="50">QGIS</a>
+    <a href="#" class="tech r"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50" height="50"></a>
+    <a href="#" class="tech python"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50" height="50"></a>
+    <a href="#" class="tech postgresql"><img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL Logo" width="50" height="50"></a>
+    <a href="#" class="tech qgis"><img src="https://qgis.org/en/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" alt="QGIS Logo" width="50" height="50"></a>
 </div>
 
 <!-- Ensure that all images have the same width and height to maintain consistency -->
