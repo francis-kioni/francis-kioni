@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Kioni's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni](https://github.com/francis-kioni/github-readme-stats)
 <!--
 **francis-kioni/francis-kioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [![Kioni's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni](https://github.com/francis-kioni/github-readme-stats)
+-[![Kioni's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni](https://github.com/francis-kioni/github-readme-stats)
 -->
