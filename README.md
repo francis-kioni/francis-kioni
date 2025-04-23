@@ -1,54 +1,73 @@
-## Hi there 👋 I'm Francis Kioni. 
-I'm a GIS Analyst with an excellent ability to collect and interpret geographical data. Solid reputation for applying analytical and problem solving skills to clearly present requested geographic data in a way that’s easy to comprehend. Expertise in digital cartography, image processing, computer technology, GIS software, geospatial production techniques, remote sensing, and photogrammetry.  Highly diverse and extremely efficient.
+<h1 align="center">Hi there 👋, I'm Francis Kioni</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni&show_icons=true&theme=radical)
+<p align="center">
+  <em>Geospatial Analyst | Remote Sensing Specialist | GeoAI Enthusiast</em><br>
+  <strong>Transforming spatial data into actionable insights</strong>
+</p>
 
-## 👯 I’m currently looking to collaborate on
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francis-kioni&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 🧠 About Me
 
-<h1>What do I use in my work?</h1>
-<div class="tech-container">
-    <a href="#" class="tech r"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50" height="50">R</a>
-    <a href="#" class="tech python"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50" height="50">Python</a>
-    <a href="#" class="tech postgresql"><img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL Logo" width="50" height="50">PostgreSQL</a>
-    <a href="#" class="tech qgis"><img src="https://qgis.org/en/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" alt="QGIS Logo" width="50" height="50">QGIS</a>
+I'm a seasoned **GIS Analyst** with a passion for AI-integrated geospatial solutions. I specialize in:
+
+- **Digital cartography** & thematic mapping  
+- **Remote sensing** & **photogrammetry**
+- **GeoAI**: Applying machine learning & AI to spatial data
+- **PostGIS** + **Python/R** automation for spatial analysis  
+- **Field-to-dashboard workflows** for decision support  
+- **High-efficiency spatial pipelines** using PostgreSQL, QGIS & open-source tools
+
+I thrive on tackling complex problems with smart geospatial solutions — from LPG market expansion modeling to urban planning, poverty mapping, and satellite image processing.
+
+---
+
+## 🌍 Current Focus Areas
+
+- 🛰️ **GeoAI & Earth Observation**  
+- 🧪 **ML Models for Suitability Analysis & Market Expansion**  
+- 🗺️ **Interactive Dashboards (Shiny/Dash)**  
+- 🔄 **Spatial Data Automation (Airflow, FastAPI)**  
+- 📦 **Custom GIS Tools & APIs**  
+
+---
+
+## 🛠️ Tools & Tech I Use
+
+<div align="center">
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40"/> &nbsp;
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="40"/> &nbsp;
+  <img src="https://qgis.org/en/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" alt="QGIS" width="40"/> &nbsp;
+  <img src="https://leafletjs.com/docs/images/logo.png" alt="Leaflet" width="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_scikit_learn.svg/1920px-Logo_scikit_learn.svg.png" alt="Scikit Learn" width="40"/> &nbsp;
+  <img src="https://seeklogo.com/images/X/xgboost-logo-7DA4380C17-seeklogo.com.png" alt="XGBoost" width="40"/>
 </div>
 
-## Let's connect! 🔗
+---
 
-I'm open for new projects and collaborations, so feel free to send me a message! Here is where you can find me:
+## 📈 GitHub Stats
 
-<a href="https://www.linkedin.com/in/francis-kioni/" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="40" height="40">
-</a>
-<a href="https://www.twitter.com" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="Twitter" width="40" height="40">
-</a>
-<a href="https://www.instagram.com" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/733/733558.png" alt="Instagram" width="40" height="40">
-</a>
-<a href="https://www.facebook.com" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/733/733547.png" alt="Facebook" width="40" height="40">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francis-kioni&show_icons=true&theme=radical" alt="Francis' GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis-kioni&layout=donut&theme=radical" alt="Top Langs" />
+</p>
 
-<!-- Ensure that all images have the same width and height to maintain consistency -->
+---
 
-</body>
-</html>
-⚡ Fun fact: I'm a top 100 PUBG player in Kenya ✨[Deadly_Kion]✨
-<!--
-**francis-kioni/francis-kioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Let's Connect!
 
-Here are some ideas to get you started:
+- 💼 [LinkedIn](https://www.linkedin.com/in/francis-kioni/)
+- 🐦 [Twitter](https://www.twitter.com)  
+- 📸 [Instagram](https://www.instagram.com)  
+- 📘 [Facebook](https://www.facebook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ...
--[![Kioni's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni](https://github.com/francis-kioni/github-readme-stats)
--->
+---
+
+## ⚡ Fun Fact
+
+🎮 Ranked top 100 PUBG Mobile player in Kenya — **IGN: Deadly_Kion**
+
+---
+
+<!-- Keep your README clean, branded, and rich in context -->
