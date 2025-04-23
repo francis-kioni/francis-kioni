@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kioni.Welcome to my Github page. 
+## Hi there 👋 I'm Francis Kioni. 
 I'm a GIS Analyst with an excellent ability to collect and interpret geographical data. Solid reputation for applying analytical and problem solving skills to clearly present requested geographic data in a way that’s easy to comprehend. Expertise in digital cartography, image processing, computer technology, GIS software, geospatial production techniques, remote sensing, and photogrammetry.  Highly diverse and extremely efficient.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis-kioni&show_icons=true&theme=radical)
